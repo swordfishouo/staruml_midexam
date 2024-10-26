@@ -38,4 +38,4 @@
 最後看這三個參與者之間的關係:教師也可以做學生的事情，所以學生泛化出教師。
 </h2>
 
-<h2>資料來源 : [https://blog.csdn.net/guleilei0/article/details/124869507?spm=1001.2014.3001.5502](https://blog.csdn.net/guleilei0/article/details/124869427?spm=1001.2014.3001.5502)</h2>
+<h2>資料來源 : [[https://blog.csdn.net/guleilei0/article/details/124869507?spm=1001.2014.3001.5502](https://blog.csdn.net/guleilei0/article/details/124869427?spm=1001.2014.3001.5502)](https://blog.csdn.net/guleilei0/article/details/124869427?spm=1001.2014.3001.5502)</h2>
